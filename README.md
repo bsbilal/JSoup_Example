@@ -21,6 +21,15 @@ Add This Dependency
 implementation 'org.jsoup:jsoup:1.12.1'
 ```
 
+### AndroidManifest.xml
+
+Add This Manifest Line
+```
+ <uses-permission android:name="android.permission.INTERNET" />
+```
+ 
+
+
 ### This is our target text.
 
 ![image](https://user-images.githubusercontent.com/9121424/71427424-829f9580-26c9-11ea-98fa-a8c372b7674a.png)
